@@ -42,7 +42,7 @@ export default function AboutPage() {
               About Horizon
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-8">
-              We're a team of passionate designers, developers, and strategists
+              We're a team of passionate designers, developers, and thinkers
               dedicated to crafting exceptional digital experiences.
             </p>
           </div>
